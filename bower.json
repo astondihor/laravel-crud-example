@@ -1,0 +1,27 @@
+{
+  "name": "laravel-crud-example",
+  "description": "Laravel CRUD Example",
+  "main": "",
+  "authors": [
+    "Aston Dihor <aston.dihor@yahoo.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "5.7",
+    "crud",
+    "example",
+    "tutorial"
+  ],
+  "homepage": "https://animousconsulting.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sweetalert2": "^8.0.1"
+  }
+}

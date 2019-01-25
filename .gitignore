@@ -2,16 +2,14 @@
 node_modules/
 npm-debug.log
 yarn-error.log
-
-# Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
-
+.idea
+.editorconfig
 # Laravel 5 & Lumen specific
 public/storage
 public/hot
 storage/*.key
 .env
+.phpunit.result.cache
 Homestead.yaml
 Homestead.json
 /.vagrant
